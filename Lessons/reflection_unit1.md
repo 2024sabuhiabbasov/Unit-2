@@ -14,6 +14,11 @@
 - Making my variable names understandable for everyone in my codes
 ## What talent did I discover or practice during this unit?
 - I learned and practiced drawing flow diagrams
-- To make my repository organized, making my codes and flow diagrams understandable is more important that gettings tasks done
+- I discovered that making my repository organized, my codes and flow diagrams more understandable is more important that gettings tasks done
 - I learned and practiced drawing flow diagrams
-- 
+## What is working well in Computer Science for me?
+- Quizzes
+- Learning Python
+- Getting used to a class environment of Computer Science knowers
+## What can Dr Ruben do to support me during Unit 2?
+- To continue his job :)
