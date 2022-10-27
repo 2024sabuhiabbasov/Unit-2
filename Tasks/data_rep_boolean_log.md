@@ -3,23 +3,23 @@
 Draw the circuit for the boolean equations provided.
 
 ### AB + not(A + B)
-
-### not(A(A + B) + B
-
+![image](https://user-images.githubusercontent.com/111758436/198275640-107a3877-480c-4137-92be-1ee1d755ae17.png)
+### not(A(A + B)) + B
+![image](https://user-images.githubusercontent.com/111758436/198277158-4d078160-86da-40b2-a4b3-eaab7371e96a.png)
 ### ((not A) and B) or (A and B)
-
-### not(ACB) + not((A+C)B)
-
+![image](https://user-images.githubusercontent.com/111758436/198278594-315a01ce-c353-40c9-a5ef-52dd132c00b7.png)
+### not(ACB) + not((A + C)B)
+![image](https://user-images.githubusercontent.com/111758436/198280295-a50d299f-441b-402d-a594-41bcd9a720e3.png)
 ### [HL] not(b1b2b3) + not((b1 + b3))(b1 + b2)
-
+![image](https://user-images.githubusercontent.com/111758436/198281801-2ab38b14-8b01-427b-b1da-a07183c77907.png)
 ## Get the equation
 Write the boolean equation for the circuit shown.
 
 ### Circuit 1
-<img width="482" alt="Screenshot 2022-10-27 202301" src="https://user-images.githubusercontent.com/111758436/198271657-12b1bd50-f799-440e-a4f7-e00ebba5fb14.png">
+![image](https://user-images.githubusercontent.com/111758436/198283683-36664d2e-c75c-44c7-8014-481d09c5910f.png)
 
 ### Circuit 2
-<img width="482" alt="image" src="https://user-images.githubusercontent.com/111758436/198271887-80d65b0b-4227-4c77-b7b3-bf04cc94b37d.png">
+![image](https://user-images.githubusercontent.com/111758436/198285303-f6ca1b85-f50c-4628-a99a-39943a45ff58.png)
 
 ### Circuit 3
 ![image](https://user-images.githubusercontent.com/111758436/198272037-ff978b16-a717-4e42-bd5d-a76afc64133f.png)
