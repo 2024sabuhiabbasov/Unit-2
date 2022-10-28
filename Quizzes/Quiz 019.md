@@ -4,20 +4,22 @@ screenshot
 ## My solutions
 ### Code
 ```.py
+# Program for Quiz 019
+
 def get_l3tt3r(msg: str):
     output = ""
     for letter in msg:
-        if letter == 'a':
+        if letter == 'a': # Checking if the letter is a, it will add 4 as a character to the output
             output += '4'
-        elif letter == 'e':
+        elif letter == 'e': # Checking if the letter is e, it will add 3 as a character to the output
             output += '3'
-        elif letter == 'i':
+        elif letter == 'i': # Checking if the letter is i, it will add 1 as a character to the output
             output += '1'
-        elif letter == 'o':
+        elif letter == 'o': # Checking if the letter is o, it will add 0 as a character to the output
             output += '0'
-        elif letter == ' ':
+        elif letter == ' ': # Checking if the letter is a space, it will add _ as a character to the output
             output += '_'
-        else:
+        else: # In all other cases, it will add the letter itself to output
             output += letter
     return output
 
