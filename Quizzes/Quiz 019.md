@@ -37,4 +37,4 @@ print(f"Remember the Figure Caption after the change: {green}{case3}")
 
 **Test 1**
 
-![](![image](https://user-images.githubusercontent.com/111758436/198482439-9c4e94ac-a0bf-4241-a5c8-f454c0790e48.png)
+![image](https://user-images.githubusercontent.com/111758436/198482439-9c4e94ac-a0bf-4241-a5c8-f454c0790e48.png)
