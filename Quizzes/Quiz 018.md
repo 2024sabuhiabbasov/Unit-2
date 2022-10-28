@@ -20,4 +20,3 @@ print(numberMatches(12345, 123))
 
 **Test 1**
 
-screenshot
