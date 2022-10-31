@@ -39,4 +39,6 @@ print(f"Remember the Figure Caption after the change: {green}{case3}")
 
 ![image](https://user-images.githubusercontent.com/111758436/198482439-9c4e94ac-a0bf-4241-a5c8-f454c0790e48.png)
 
-### Boolean circuit
+### Boolean circuit for b
+
+![image](https://user-images.githubusercontent.com/111758436/198934838-0cc42a95-19d8-4091-99b1-43b86fff5289.png)
