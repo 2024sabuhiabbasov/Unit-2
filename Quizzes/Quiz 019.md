@@ -1,8 +1,8 @@
 # Quiz 019
-screenshot
+![image](https://user-images.githubusercontent.com/111758436/198933711-d98a1344-7802-4b36-b8d0-3540699e3f66.png)
 
 ## My solutions
-### Code
+### Code for a
 ```.py
 # Program for Quiz 019
 
@@ -38,3 +38,5 @@ print(f"Remember the Figure Caption after the change: {green}{case3}")
 **Test 1**
 
 ![image](https://user-images.githubusercontent.com/111758436/198482439-9c4e94ac-a0bf-4241-a5c8-f454c0790e48.png)
+
+### Boolean circuit
