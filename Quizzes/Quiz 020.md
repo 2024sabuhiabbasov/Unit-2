@@ -40,5 +40,15 @@ get_truth() # Calling the program to print the truth table for 3 inputs
 ![image](https://user-images.githubusercontent.com/111758436/199932674-6a0b2685-4bdf-4c3d-81d4-b7c0c403fee5.png)
 
 ### Truth table for S1S2+(S2+S3(notS1))S1
+| S1 | S2 | S3 | S1S2 | not S1 | S3(notS1) | S2+S3(notS1) | (S2+S3(notS1))S1 | S1S2+(S2+S3(notS1))S1 |
+|----|----|----|------|--------|-----------|--------------|------------------|-----------------------|
+| 0  | 0  | 0  | 0    | 1      | 0         | 0            | 0                | 0                     |
+| 0  | 0  | 1  | 0    | 1      | 1         | 1            | 0                | 0                     |
+| 0  | 1  | 0  | 0    | 1      | 0         | 1            | 0                | 0                     |
+| 0  | 1  | 1  | 0    | 1      | 1         | 1            | 0                | 0                     |
+| 1  | 0  | 0  | 0    | 0      | 0         | 0            | 0                | 0                     |
+| 1  | 0  | 1  | 0    | 0      | 0         | 0            | 0                | 0                     |
+| 1  | 1  | 0  | 1    | 0      | 0         | 1            | 1                | 1                     |
+| 1  | 1  | 1  | 1    | 0      | 0         | 1            | 1                | 1                     |
 
 ### Boolen circuit for S1S2+(S2+S3(notS1))S1 
