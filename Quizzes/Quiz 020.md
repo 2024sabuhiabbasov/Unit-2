@@ -52,3 +52,4 @@ get_truth() # Calling the program to print the truth table for 3 inputs
 | 1  | 1  | 1  | 1    | 0      | 0         | 1            | 1                | 1                     |
 
 ### Boolen circuit for S1S2+(S2+S3(notS1))S1 
+![image](https://user-images.githubusercontent.com/111758436/199951808-c0c537ce-8e93-474a-b4f6-c4a2fba8eeae.png)
