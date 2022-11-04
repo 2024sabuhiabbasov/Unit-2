@@ -39,7 +39,7 @@ print(answer)
 
 **Truth table for the program**
 
-| A | B | C | AB | notB | BC | not BC | AB or notB | (AB or not B) or (not BC) |
+| A | B | C | AB | notB | BC | not BC | AB + notB  | AB + not B + not BC       |
 |---|---|---|----|------|----|--------|------------|---------------------------|
 | 0 | 0 | 0 | 0  | 1    | 0  | 1      | 1          | 1                         |
 | 0 | 0 | 1 | 0  | 1    | 0  | 1      | 1          | 1                         |
