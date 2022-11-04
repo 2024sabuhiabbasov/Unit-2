@@ -70,3 +70,4 @@ print(answer)
 | 1 | 1 | 1 | 0 | 0     | 0        | 0            | 0  | 1                      |
 | 1 | 1 | 1 | 1 | 0     | 0        | 1            | 1  | 1                      |
 ### Boolen circuit for ZW ⊕ (Z ⊕ Y(not W))
+![image](https://user-images.githubusercontent.com/111758436/199957668-e78ecb7c-adef-4089-b566-f70c2197d4ea.png)
