@@ -17,18 +17,9 @@ def get_truth():
     Z = 0
     output = ''
     for i in range(1, 9):
-        if not x:
-            X = 0
-        else:
-            X = 1
-        if not y:
-            Y = 0
-        else:
-            Y = 1
-        if not z:
-            Z = 0
-        else:
-            Z = 1
+        x = not x
+        y = not y
+        z = not z
         if i % 4 == 0:
             x = not x
         if i % 2 == 0:
