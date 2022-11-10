@@ -36,3 +36,13 @@ print(sample) # Printing the answer
 ![image](https://user-images.githubusercontent.com/111758436/200589400-502edee6-238a-4475-8bfe-37b48def2eaf.png)
 
 ### Proof that: A (A + B) = A
+**Truth table for A (A + B)**
+
+| A | B | A + B | A (A + B) |
+|---|---|-------|-----------|
+| 0 | 0 | 0     | 0         |
+| 0 | 1 | 1     | 0         |
+| 1 | 0 | 1     | 1         |
+| 1 | 1 | 1     | 1         |
+
+As we can see from the table, A and A (A + B) has the same values for all rows. From here, we can say that A is equal to A (A + B).
