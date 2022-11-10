@@ -1,7 +1,7 @@
 # Quiz 021
 **Statement**
 
-screenshot
+![image](https://user-images.githubusercontent.com/111758436/201060449-c1d4bca0-8db2-4a49-93ce-f488ffa05ef3.png)
 
 ## My solutions
 ### Code for a
