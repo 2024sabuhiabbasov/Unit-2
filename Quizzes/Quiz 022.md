@@ -1,10 +1,10 @@
 # Quiz 022
 **Statement**
 
-screenshot
+![image](https://user-images.githubusercontent.com/111758436/201060610-c07efa74-fb7d-4b63-a7cd-4fca45bc980b.png)
 
 ## My solutions
-### Code for a
+### Code for program
 ```.py
 # Program for Quiz 022
 
@@ -35,8 +35,4 @@ print(sample) # Printing the answer
 
 ![image](https://user-images.githubusercontent.com/111758436/200589400-502edee6-238a-4475-8bfe-37b48def2eaf.png)
 
-**Truth table for the program**
-
-### Truth table for  ZW ⊕ (Z ⊕ Y(not W))
-
-### Boolen circuit for ZW ⊕ (Z ⊕ Y(not W))
+### Proof that: A (A + B) = A
