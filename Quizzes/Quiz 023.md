@@ -47,3 +47,9 @@ plt.show() # Showing the graph
 ![image](https://user-images.githubusercontent.com/111758436/201066968-327f1fc1-b8de-4b51-b2b7-ce9d7319b261.png)
 
 ### Truth table for: A(A ⊕ B)
+| A | B | A ⊕ B | A (A ⊕ B) |
+|---|---|-------|-----------|
+| 0 | 0 | 0     | 0         |
+| 0 | 1 | 1     | 0         |
+| 1 | 0 | 1     | 1         |
+| 1 | 1 | 0     | 0         |
