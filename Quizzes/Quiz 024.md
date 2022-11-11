@@ -47,3 +47,4 @@ plt.show() # Showing the graph
 ![image](https://user-images.githubusercontent.com/111758436/201291462-5597f1ad-c5cd-4dd6-b7dd-0d00654ebde7.png)
 
 ### Circuit for not(bit0 bit1 + not (bit0 + bit1))
+![image](https://user-images.githubusercontent.com/111758436/201292633-d618a288-e838-467f-b418-fb89106f1f48.png)
