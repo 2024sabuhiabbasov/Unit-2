@@ -40,6 +40,9 @@ plt.show() # Showing the graph
 **Test 1**
 
 ![image](https://user-images.githubusercontent.com/111758436/202157731-0c8f9da9-3c52-4eef-b8e8-fcfeeb8b9340.png)
+![image](https://user-images.githubusercontent.com/111758436/202157980-d504c948-c055-4e98-9989-e186e8c50f46.png)
+![image](https://user-images.githubusercontent.com/111758436/202158136-bd1cbd01-0c57-4f4b-bc0c-72a30c0c9883.png)
+![image](https://user-images.githubusercontent.com/111758436/202158225-ff685c96-309f-4660-9fe3-87dda4a0c071.png)
 
 ### Circuit for not(bit0 bit1 + not (bit0 + bit1))
 ![image](https://user-images.githubusercontent.com/111758436/201292633-d618a288-e838-467f-b418-fb89106f1f48.png)
