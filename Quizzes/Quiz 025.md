@@ -42,3 +42,4 @@ plt.show() # Showing the graph
 ![image](https://user-images.githubusercontent.com/111758436/202163135-c0b15127-8f25-472c-90bb-01f2606fa719.png)
 
 ### Convert FFA5 to decimal
+FFA5₁₆ = 15 x 16³ + 15 x 16² + 10 x 16¹ + 5 x 16⁰ = 15 x 4096 + 15 x 256 + 10 x 16 + 5 x 1 = 61440 + 3840 + 160 + 5 = **65445**
