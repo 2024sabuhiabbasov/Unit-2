@@ -29,6 +29,9 @@ for i in range(0, 101):
     print(f"\n{colors[3]}|{colors[2]}{str('%.2f' % x).center(8, ' ')}{colors[3]}|{colors[1]}{str('%.2f' % Y).center(8, ' ')}{colors[3]}|", end='') # Printing the x and y, answer of the equation
     x = x + 0.2
 
+ax = plt.axes()
+ax.set_facecolor("lightsteelblue")
+plt.grid(True, color='dimgray')
 plt.plot(x_out, y_out, color='b') # Drawing a graph with color red ("r") and market points (".")
 plt.xlabel("x") # Labeling the x-axis as "x"
 plt.ylabel("$y=|x| $") # Labeling the y-axis "y"
@@ -39,7 +42,7 @@ plt.show() # Showing the graph
 
 **Test 1**
 
-![image](https://user-images.githubusercontent.com/111758436/202163135-c0b15127-8f25-472c-90bb-01f2606fa719.png)
+![image](https://user-images.githubusercontent.com/111758436/202172617-bfd518b3-6814-47d4-9f3f-281040ab2e8e.png)
 
 ### Convert FFA5 to decimal
 FFA5₁₆ = 15 x 16³ + 15 x 16² + 10 x 16¹ + 5 x 16⁰ = 15 x 4096 + 15 x 256 + 10 x 16 + 5 x 1 = 61440 + 3840 + 160 + 5 = **65445**
