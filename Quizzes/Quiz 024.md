@@ -23,14 +23,14 @@ x_out = [] # List for values of x to store and return
 y_out = [] # List for values of y to store and return
 print(output, end='')
 x = -10
-for i in range(0, 100): # For loop to repeat the equation n time
+for i in range(0, 101): # For loop to repeat the equation n time
     x_out.append(x) # Adding the value of x to the list x_out
     y = 2*(pow(x + 5, 2)) # The equation
     y_out.append(y) # Adding the value of y to the list y_out
-    x = x + 0.2
     print(f"\n{colors[3]}|{colors[2]}{str('%.2f' % x).center(12, ' ')}{colors[3]}|{colors[1]}{str('%.2f' % (round(y, 2))).center(12, ' ')}{colors[3]}|", end='') # Printing the x and y, answer of the equation
+    x = x + 0.2
 
-plt.plot(x_out, y_out, color="b", marker=".") # Drawing the graph with color blue ("b") and adding points with marker point (".")
+plt.plot(x_out, y_out, color="b") # Drawing the graph with color blue ("b") and adding points with marker point (".")
 plt.xlabel("x") # Labeling the x-axis as "x"
 plt.ylabel("$y={2(x + 5)^2} $") # Labeling the y-axis as the equation. Writing in dollar signs helps it to seem as an equation
 plt.show() # Showing the graph
@@ -39,10 +39,7 @@ plt.show() # Showing the graph
 
 **Test 1**
 
-![image](https://user-images.githubusercontent.com/111758436/202157731-0c8f9da9-3c52-4eef-b8e8-fcfeeb8b9340.png)
-![image](https://user-images.githubusercontent.com/111758436/202157980-d504c948-c055-4e98-9989-e186e8c50f46.png)
-![image](https://user-images.githubusercontent.com/111758436/202158136-bd1cbd01-0c57-4f4b-bc0c-72a30c0c9883.png)
-![image](https://user-images.githubusercontent.com/111758436/202158225-ff685c96-309f-4660-9fe3-87dda4a0c071.png)
+![image](https://user-images.githubusercontent.com/111758436/202163552-2b772ebb-59ec-40cb-9d66-ba051a3224fd.png)
 
 ### Circuit for not(bit0 bit1 + not (bit0 + bit1))
 ![image](https://user-images.githubusercontent.com/111758436/201292633-d618a288-e838-467f-b418-fb89106f1f48.png)
