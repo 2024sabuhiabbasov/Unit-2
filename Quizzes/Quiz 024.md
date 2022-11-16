@@ -1,7 +1,7 @@
 # Quiz 024
 **Statement**
 
-Screeenshot
+![image](https://user-images.githubusercontent.com/111758436/202153192-6b16a1fa-9bda-4e59-9851-6e66f93df9ae.png)
 
 ## My solutions
 ### Code for program
