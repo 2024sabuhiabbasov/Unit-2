@@ -35,6 +35,9 @@ def produce(n: int, m: int, s: int) -> str:
 
 data_y, data_x = produce(10, 5, 2) # Calling the function produce and stroing returned values in values data_y and data_x
 
+ax = plt.axes()
+ax.set_facecolor("lightsteelblue")
+plt.grid(True, color='dimgray')
 plt.plot(data_x, data_y, color="b", marker=".") # Drawing the graph with color blue ("b") and adding points with marker point (".")
 plt.xlabel("x") # Labeling the x-axis as "x"
 plt.ylabel("$y=x^{1/2(m/s)^2} $") # Labeling the y-axis as the equation. Writing in dollar signs helps it to seem as an equation
@@ -44,7 +47,7 @@ plt.show() # Showing the graph
 
 **Test 1**
 
-![image](https://user-images.githubusercontent.com/111758436/201066968-327f1fc1-b8de-4b51-b2b7-ce9d7319b261.png)
+![image](https://user-images.githubusercontent.com/111758436/202173677-852f1be6-0da7-42ec-8cdd-3fa2334697e3.png)
 
 ### Truth table for: A(A ⊕ B)
 | A | B | A ⊕ B | A (A ⊕ B) |
