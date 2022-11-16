@@ -30,6 +30,9 @@ for i in range(0, 101): # For loop to repeat the equation n time
     print(f"\n{colors[3]}|{colors[2]}{str('%.2f' % x).center(12, ' ')}{colors[3]}|{colors[1]}{str('%.2f' % (round(y, 2))).center(12, ' ')}{colors[3]}|", end='') # Printing the x and y, answer of the equation
     x = x + 0.2
 
+ax = plt.axes()
+ax.set_facecolor("lightsteelblue")
+plt.grid(True, color='dimgray')
 plt.plot(x_out, y_out, color="b") # Drawing the graph with color blue ("b") and adding points with marker point (".")
 plt.xlabel("x") # Labeling the x-axis as "x"
 plt.ylabel("$y={2(x + 5)^2} $") # Labeling the y-axis as the equation. Writing in dollar signs helps it to seem as an equation
@@ -39,7 +42,7 @@ plt.show() # Showing the graph
 
 **Test 1**
 
-![image](https://user-images.githubusercontent.com/111758436/202163552-2b772ebb-59ec-40cb-9d66-ba051a3224fd.png)
+![image](https://user-images.githubusercontent.com/111758436/202172962-c8e792a3-33d0-44a5-9f5e-7c39af3074ad.png)
 
 ### Circuit for not(bit0 bit1 + not (bit0 + bit1))
 ![image](https://user-images.githubusercontent.com/111758436/201292633-d618a288-e838-467f-b418-fb89106f1f48.png)
