@@ -92,3 +92,8 @@ It is critical for you to understand how to represent information in different w
 **Base 8 (Octal):** 175062
 
 **Base 2 (Binary):** 1111101000110010
+
+**Work**
+
+![image](https://user-images.githubusercontent.com/111758436/202409461-400162e4-4096-477d-9db6-7248ed519163.png)
+![image](https://user-images.githubusercontent.com/111758436/202409541-b364513d-7ef8-4add-828c-08689c91323a.png)
