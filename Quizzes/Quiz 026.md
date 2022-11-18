@@ -55,3 +55,4 @@ plt.show() # Showing the graph
 ![image](https://user-images.githubusercontent.com/111758436/202622492-b12ee2ef-df20-4555-8a7e-d880f01eef93.png)
 
 ### Convert the following color in hex to rgb: #e6e627
+e6e627 = 14 x 16⁵ + 6 x 16⁴ + 14 x 16³ + 6 x 16² + 2 x 16¹ + 7 x 16⁰ = 14680064 + 393216 + 57344 + 1536 + 32 + 7 = 15132199₁₀
