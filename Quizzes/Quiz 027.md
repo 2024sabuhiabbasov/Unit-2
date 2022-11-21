@@ -1,7 +1,7 @@
 # Quiz 027
 **Statement**
 
-statement
+![image](https://user-images.githubusercontent.com/111758436/203176827-72259f00-2973-447f-b7cb-336eea8ee717.png)
 
 ## My solutions
 ### Code for program
