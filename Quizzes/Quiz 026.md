@@ -55,5 +55,5 @@ plt.show() # Showing the graph
 ![image](https://user-images.githubusercontent.com/111758436/202622492-b12ee2ef-df20-4555-8a7e-d880f01eef93.png)
 
 ### Convert the following color in hex to rgb: #e6e627
-e6e627₁₆ = (14x16 + 6, 14x16 + 6, 2x16 + 7) = (230, 230, 39)
+![image](https://user-images.githubusercontent.com/111758436/203700381-4607aa22-ed38-4d95-8179-9420ab71b93b.png)
 ![image](https://user-images.githubusercontent.com/111758436/202627759-f171b3a3-2acf-496b-b555-bdc0c5c3ec8f.png)
