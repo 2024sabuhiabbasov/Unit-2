@@ -52,7 +52,7 @@ plt.show() # showing the graph
 
 ![image](https://user-images.githubusercontent.com/111758436/202661195-1c311800-38ba-46cc-a541-ec756c1e1cfa.png)
 
-### Convert the following rgb color to hex to rgb: red=250, green=100, blue=10
+### Convert the following rgb color to hex: red=250, green=100, blue=10
 
 red=250: 250//16=15=f, remainder=10=a, **red=fa**
 
