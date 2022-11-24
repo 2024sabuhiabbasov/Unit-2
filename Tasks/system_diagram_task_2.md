@@ -1,4 +1,4 @@
-# Task 2 - System diagram
+# System diagram II
 
 3 leds tell us numersin in binary from 0 to 7 by led on and off respectively representing 1 and 0.
 
