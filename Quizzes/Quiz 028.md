@@ -43,4 +43,5 @@ plt.show() # Showing the graph
 ![image](https://user-images.githubusercontent.com/111758436/203698762-aa21a456-352c-4e62-af91-82f259f21a0d.png)
 
 ### Convert the following rgb color to hex: red=10, green=255, blue=255
-
+![image](https://user-images.githubusercontent.com/111758436/203700789-4a569edc-a61f-431d-8604-54cfb3090b90.png)
+![image](https://user-images.githubusercontent.com/111758436/203700941-e0f95694-a989-41c1-b7f4-1bb97d3561be.png)
