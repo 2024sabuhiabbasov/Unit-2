@@ -1,4 +1,7 @@
 # Task 2 - System diagram
+
+3 leds tell us numersin in binary from 0 to 7 by led on and off respectively representing 1 and 0.
+
 **Statement**
 
 ![image](https://user-images.githubusercontent.com/111758436/201068915-063aae8a-ff64-433a-9b84-3b7ffbb75f5a.png)
@@ -49,5 +52,3 @@ while True:
                 board.digital[8].write(y) # Sending the value of y to the second LED
                 board.digital[13].write(z) # Sending the value of z to the third LED
 ```
-
-### Video of the circuit
