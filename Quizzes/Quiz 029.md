@@ -51,4 +51,4 @@ print(output2)
 ### How many different colors could you represent in a 6 bit computer? 
 Answer: 64
 
-Work: 
+Work: 2<sup>6</sup> = 8 * 8 = **64**
