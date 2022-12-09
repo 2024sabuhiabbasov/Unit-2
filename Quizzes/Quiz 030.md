@@ -38,10 +38,6 @@ plt.show() # Showing the graph
 ![image](https://user-images.githubusercontent.com/111758436/206601283-d2b780df-8e1a-4a73-8b51-6bd397087cfe.png)
 
 ### When was the internet first created?
-January 1, 1983 is considered the official birthday of the Internet. Prior to this, the various computer networks did not have a standard way to communicate with each other. A new communications protocol was established called Transfer Control Protocol/Internetwork Protocol (TCP/IP). This allowed different kinds of computers on different networks to "talk" to each other. ARPANET and the Defense Data Network officially changed to the TCP/IP standard on January 1, 1983, hence the birth of the Internet. All networks could now be connected by a universal language.
+January 1, 1983 is considered the official birthday of the Internet. Prior to this, the various computer networks did not have a standard way to communicate with each other. A new communications protocol was established called Transfer Control Protocol/Internetwork Protocol (TCP/IP). This allowed different kinds of computers on different networks to "talk" to each other. ARPANET and the Defense Data Network officially changed to the TCP/IP standard on January 1, 1983, hence the birth of the Internet. All networks could now be connected by a universal language. [^1]
 
-<h3 align="center">
-<strong>Works cited</strong>
-</h3>
-
-“A Brief History of the Internet.” A Brief History of the Internet, The Online Library Learning Center, https://usg.edu/galileo/skills/unit07/internet07_02.phtml. Accessed on 9 December 2022.
+[^1]: “A Brief History of the Internet.” A Brief History of the Internet, The Online Library Learning Center, https://usg.edu/galileo/skills/unit07/internet07_02.phtml. Accessed on 9 December 2022.
