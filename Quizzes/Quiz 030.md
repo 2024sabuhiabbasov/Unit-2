@@ -18,7 +18,7 @@ h = [57.0, 56.0, 57.0, 56.0, 55.0, 55.0, 54.0, 54.0, 54.0, 53.0, 53.0, 54.0, 53.
 number_samples_per_hour = 4 # Variable to smooth the data every 4 value
 mean_per_hour = [] # Variable to find the mean per hour
 x = [] # List for x-axis values of the graph
-for t in range(0, len(h), 4):
+for t in range(0, len(h), 2):
     t_hour = h[t:t+number_samples_per_hour] # Making a list of every 4 variable from the list h
     mean_per_hour.append(sum(t_hour)/len(t_hour)) # Adding mean of 4 variables to the list mean_per_hour
     x.append(t) # Adding value t to the list x for x-axis values of the graph
@@ -35,7 +35,7 @@ plt.show() # Showing the graph
 
 **Test 1**
 
-![image](https://user-images.githubusercontent.com/111758436/206599983-e4336ece-d7a0-4657-a8fa-212886f879f9.png)
+![image](https://user-images.githubusercontent.com/111758436/206601283-d2b780df-8e1a-4a73-8b51-6bd397087cfe.png)
 
 ### When was the internet first created?
 January 1, 1983 is considered the official birthday of the Internet. Prior to this, the various computer networks did not have a standard way to communicate with each other. A new communications protocol was established called Transfer Control Protocol/Internetwork Protocol (TCP/IP). This allowed different kinds of computers on different networks to "talk" to each other. ARPANET and the Defense Data Network officially changed to the TCP/IP standard on January 1, 1983, hence the birth of the Internet. All networks could now be connected by a universal language.
