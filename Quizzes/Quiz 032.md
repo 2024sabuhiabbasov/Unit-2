@@ -71,3 +71,6 @@ plt.show()
 **Test 1**
 
 Couldn't test because of a problem in the server.
+
+### a) What are the three main operators used in boolean logic?
+Answer: and, or, not
